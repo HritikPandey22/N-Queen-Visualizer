@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/N-Queen-Visualizer/static/css/main.c5e65bfe.css",
+    "main.js": "/N-Queen-Visualizer/static/js/main.218080e7.js",
+    "static/js/787.b5a02eb4.chunk.js": "/N-Queen-Visualizer/static/js/787.b5a02eb4.chunk.js",
+    "static/media/queen.png": "/N-Queen-Visualizer/static/media/queen.a967028b1cea0addb244.png",
+    "static/media/logo.png": "/N-Queen-Visualizer/static/media/logo.269bfc74b15625de2314.png",
+    "static/media/logo.svg": "/N-Queen-Visualizer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/N-Queen-Visualizer/index.html",
+    "main.c5e65bfe.css.map": "/N-Queen-Visualizer/static/css/main.c5e65bfe.css.map",
+    "main.218080e7.js.map": "/N-Queen-Visualizer/static/js/main.218080e7.js.map",
+    "787.b5a02eb4.chunk.js.map": "/N-Queen-Visualizer/static/js/787.b5a02eb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5e65bfe.css",
+    "static/js/main.218080e7.js"
+  ]
+}
