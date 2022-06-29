@@ -1,0 +1,91 @@
+.boardCell {
+  width: 100px;
+  height: 100px;
+
+  outline: 2px solid #607d8b;
+  display: inline-flex;
+}
+.rows {
+  display: flex;
+}
+.checked {
+  background-image: radial-gradient(circle, #b3e5fc, #29b6f6);
+}
+.attacked {
+  background-image: radial-gradient(circle, #ef9a9a, darkred);
+}
+.current {
+  background-image: radial-gradient(circle, #fff176, #f57f17);
+}
+.present {
+  background-image: radial-gradient(circle, #dce775, #43a047);
+}
+.booard {
+  font-size: 0;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+}
+
+.mainHeading {
+  font-family: freestyle;
+  font-size: 60px;
+  color: white;
+  text-align: center;
+}
+
+.logo {
+  height: 100px;
+  width: 100px;
+  float: left;
+}
+
+.grid {
+  background-color: blue;
+  text-align: center;
+  max-width: fit-content;
+  margin: auto;
+  margin-top: 50px;
+}
+
+/* for slider and buttons */
+.container {
+  display: flex;
+  background-color: rgb(179, 179, 179);
+  height: 50px;
+  padding-left: 50px;
+}
+
+.buttonContainer {
+  flex: 2;
+}
+
+.btn {
+  margin: 7px 10px 7px 0px;
+  padding: 7px;
+  color: white;
+  background-color: rgb(71, 71, 71);
+  border-radius: 15px;
+  font-size: 1rem;
+}
+
+.btn:hover{
+  /* border: 1px solid white; */
+  background-color: black;
+}
+
+@media (max-width: 900px) {
+  .buttons {
+    flex-direction: column;
+  }
+  /* .buttonContainer { */
+    /* margin-top: 1rem; */
+  /* } */
+  /* .container { */
+    /* margin-top: 1rem; */
+  /* } */
+}

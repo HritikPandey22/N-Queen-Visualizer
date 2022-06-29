@@ -1,0 +1,26 @@
+.containerControl{
+	flex: 1;
+	display: flex;
+	align-items: center;
+	justify-content:left;
+	/* margin-left: 1rem; */
+}
+.temp
+{
+	margin: 0 0.2rem 0.2rem 0.2rem;
+	display: flex;
+	flex-direction: column;
+}
+
+.Clabel {
+	/* float:left; */
+	/* margin: 0 0.2rem 0 0.2rem; */
+  /* padding: 0.3rem 0.7rem 0.3rem 0.7rem; */
+  text-align: center;
+	/* color: 	#66FF66;
+	font-family:freestyle;
+	font-size:15px;
+	border:2px solid 	#66FF66;
+	background-color:transparent;
+	border-radius:5px; */
+}
